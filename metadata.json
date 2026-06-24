@@ -1,0 +1,6 @@
+{
+  "name": "Veo Video Movie Studio",
+  "description": "An interactive, full-stack video generation application to design, generate, and extend cinematic videos using the Google Gen AI Veo SDK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
